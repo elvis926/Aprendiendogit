@@ -1,3 +1,1 @@
 # Aprendiendogit
-
-Pilas el COD
